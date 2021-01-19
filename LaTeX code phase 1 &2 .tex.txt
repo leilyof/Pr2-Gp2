@@ -26,27 +26,27 @@
 لیست وظایف: \\
 \begin{figure}[htp]
     \centering
-    \includegraphics[width=10cm]{تابلو وظایف.jpg}
+    \includegraphics[width=15cm]{تابلو وظایف.jpg}
     \caption{لیست وظایف}
     \label{fig:model1}
 \end{figure}
 \begin{figure}[htp]
     \centering
-    \includegraphics[width=10cm]{تابلو وظایف اسپرینت اول.jpg}
-    \vspace*{-4cm}
+    \includegraphics[width=15cm]{تابلو وظایف اسپرینت اول.jpg}
+    \vspace*{-6cm}
     \caption{تابلو وظایف در شروع اسپرینت اول}
     \label{fig:model1}
 \end{figure}
 \begin{figure}[htp]
     \centering
-    \includegraphics[width=10cm]{aaaa.jpg}
-    \vspace*{-4cm}
+    \includegraphics[width=15cm]{aaaa.jpg}
+    \vspace*{-6cm}
     \caption{تابلو وظایف در پایان اسپرینت اول}
     \label{fig:model1}
 \end{figure}
 \begin{figure}[htp]
     \centering
-    \includegraphics[width=10cm]{burndown chart.png}
+    \includegraphics[width=15cm]{burndown chart.png}
     \caption{نمودار شکست کار \\ نمودار شکست کار  برای این اسپرینت در ادامه آمده‌است. برای این اسپرینت 24.5 ساعت وقت در نظر گرفته شده که معادل روزانه 3.5 ساعت کار است. روند پیش بینی شده و روند واقعی انجام کار  بر روی نمودار رسم شده‌اند.}
     \label{fig:model1}
 \end{figure}
@@ -58,28 +58,29 @@
 
 \begin{figure}[htp]
     \centering
-    \includegraphics[width=10cm]{2.1.jpg}
-    \vspace*{-5cm}
+    \includegraphics[width=15cm]{2.1.jpg}
+    \vspace*{-7cm}
     \caption{لیست وظایف}
     \label{fig:model1}
 \end{figure}
 \begin{figure}[htp]
     \centering
-    \includegraphics[width=10cm]{2.2.jpg}
-    \vspace*{-4cm}
+    \includegraphics[width=15cm]{2.2.jpg}
+    \vspace*{-6cm}
     \caption{تابلو وظایف در شروع اسپرینت دوم}
     \label{fig:model1}
 \end{figure}
 \begin{figure}[htp]
     \centering
-    \includegraphics[width=10cm]{2.3.jpg}
-    \vspace*{-4cm}
+    \includegraphics[width=15cm]{2.3.jpg}
+    \vspace*{-6cm}
     \caption{تابلو وظایف در پایان اسپرینت دوم}
     \label{fig:model1}
 \end{figure}
 \begin{figure}[htp]
     \centering
-    \includegraphics[width=10cm]{2.4.jpg}
+    \includegraphics[width=15cm]{2.4.jpg}
+    \vspace*{-2cm}
     \caption{نمودار شکست کار \\ نمودار شکست کار برای این اسپرینت در ادامه آمده‌است. برای این اسپرینت 24 ساعت وقت در نظر گرفته شده که معادل روزانه‌ی 3.42ساعت(تقریباً همان 3.5 ساعت) کار است. روند پیش‌بینی شده و روند واقعی انجام کار  بر روی نمودار رسم شده‌اند.}
     \label{fig:model1}
 \end{figure}
@@ -98,24 +99,24 @@
 \end{figure}
 \begin{figure}[htp]
     \begin{center}
-    \includegraphics[width=20cm]{3.2.jpg}
-    \vspace*{-11cm}
+    \includegraphics[width=30cm]{3.2.jpg}
+    \vspace*{-17cm}
     \caption{تابلو وظایف در شروع اسپرینت سوم}
     \label{fig:model1}
     \end{center}
 \end{figure}
 \begin{figure}[htp]
     \begin{center}
-    \includegraphics[width=20cm]{3.3.jpg}
-    \vspace*{-12cm}
+    \includegraphics[width=30cm]{3.3.jpg}
+    \vspace*{-18cm}
     \caption{تابلو وظایف در پایان اسپرینت سوم}
     \label{fig:model1}
     \end{center}
 \end{figure}
 \begin{figure}[htp]
     \centering
-    \includegraphics[width=20cm]{3.4.jpg}
-    \vspace*{-10cm}
+    \includegraphics[width=30cm]{3.4.jpg}
+    \vspace*{-16cm}
     \caption{نمودار شکست کار \\ نمودار شکست کار برای این اسپرینت در ادامه آمده‌است. برای این اسپرینت  49 ساعت وقت در نظر گرفته شده که معادل روزانه‌ی 7  ساعت کار است. روند پیش‌بینی شده و روند واقعی انجام کار  بر روی نمودار رسم شده‌اند.}
     \label{fig:model1}
 \end{figure}
@@ -257,7 +258,7 @@
 فایل اصلی نمودار پیوست شده‌است.
 \begin{figure}[htp]
     \centering
-    \includegraphics[width=10cm]{2.5.jpg}
+    \includegraphics[width=15cm]{2.5.jpg}
     \caption{\lr{use case diagram}}
     \label{fig:model1}
 \end{figure}
