@@ -122,6 +122,44 @@
 \end{figure}
 
 \newpage
+\section{\lr{sprint 4}}
+\subsection{تابلو وظایف} 
+در این اسپرینت قصد داریم فاز سه پروژه را انجام دهیم. وظایف فاز سوم را به 3 تسک تقسیم‌بندی کرده‌ایم؛ نحوه‌ی تقسیم‌بندی تسک‌ها به گونه‌ای صورت گرفته که هر فرد بتواند مستقلاً آن را انجام دهد. در حقیقت معیار تقسیم‌بندی، استقلال تسک‌ها از یک‌دیگر بوده‌است. \\
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=30cm]{4.1.jpg}
+    \vspace*{-17cm}
+    \caption{لیست وظایف}
+    \label{fig:model1}
+\end{figure}
+\begin{figure}[htp]
+    \begin{center}
+    \includegraphics[width=30cm]{4.2.jpg}
+    \vspace*{-19cm}
+    \caption{تابلو وظایف در شروع اسپرینت چهارم}
+    \label{fig:model1}
+    \end{center}
+\end{figure}
+\begin{figure}[htp]
+    \begin{center}
+    \includegraphics[width=30cm]{4.3.jpg}
+    \vspace*{-19cm}
+    \caption{تابلو وظایف در پایان اسپرینت چهارم}
+    \label{fig:model1}
+    \end{center}
+\end{figure}
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=30cm]{4.4.jpg}
+    \vspace*{-16cm}
+    \caption{نمودار شکست کار \\ نمودار شکست کار  برای این اسپرینت در ادامه آمده‌است. برای این اسپرینت 40 ساعت وقت در نظر گرفته شده که معادل روزانه‌ی 5.7 ساعت کار است. روند پیش‌بینی شده و روند واقعی انجام کار  بر روی نمودار رسم شده‌اند.}
+    \label{fig:model1}
+\end{figure}
+
+
+
+
+\newpage
 \section{فاز اول}
 \subsection{چشم‌انداز محصول دیجامه} 
 شرح چشم‌انداز(هدف از ایجاد محصول چیست؟):\\
@@ -265,27 +303,27 @@
 \newpage
 \begin{figure}[htp]
     \centering
-    \includegraphics[width=10cm]{u1.jpg}
+    \includegraphics[width=10cm]{use1.jpg}
     \label{fig:model1}
 \end{figure}
 \begin{figure}[htp]
     \centering
-    \includegraphics[width=10cm]{u2.jpg}
+    \includegraphics[width=10cm]{use2.jpg}
     \label{fig:model1}
 \end{figure}
 \begin{figure}[htp]
     \centering
-    \includegraphics[width=10cm]{u3.jpg}
+    \includegraphics[width=10cm]{use3.jpg}
     \label{fig:model1}
 \end{figure}
 \begin{figure}[htp]
     \centering
-    \includegraphics[width=10cm]{u4.jpg}
+    \includegraphics[width=10cm]{use4.jpg}
     \label{fig:model1}
 \end{figure}
 \begin{figure}[htp]
     \centering
-    \includegraphics[width=10cm]{u5.jpg}
+    \includegraphics[width=10cm]{use5.jpg}
     \label{fig:model1}
 \end{figure}
 
@@ -329,7 +367,7 @@
     \label{fig:model1}
 \end{figure}
 \newpage
-\subsubsection{نمودارهای فرآیند مرجوعی و بازگشت کالا}
+\subsection{نمودارهای فرآیند مرجوعی و بازگشت کالا}
 در این بخش نمودار فعالیت و توالی برای فرآیند مرجوعی کالا آمده‌است. \\
 جزییات مربوط به هر قدم و گام های مربوطه در جدول توضیحات نمودار موردکاربرد آمده‌اند. در آن جدول گام های لازم، توضیحات هر مرحله و سناریو های ممکن شرح داده شده‌اند. علاوه برآن در لیست نیازمندی های کاربردی نیز توضیح مختصری از مراحل مختلف این فرآیند مطرح شده‌است. در حقیقت تمامی فرضیات رسم نمودارها، توضیحات مرتبط و سناریو های ممکن در بخش های قبلی این نوشتار بیان شده‌اند. بنابراین در اینجا از تکرار مکررات پرهیز کرده و مطالب قبلی را مجددا ذکر نمی‌کنیم. صرفا نکات زیر شایان ذکر هستند:
 \begin{enumerate}
@@ -339,12 +377,12 @@
 
 \end{enumerate}
 
-
+\newpage
 \begin{figure}[htp]
     \centering
-    \includegraphics[width=25cm]{3.7.jpg}
-    \vspace*{-12cm}
-    \caption{نمودار فعالیت فرآیند مرجوعی}
+    \includegraphics[width=15cm]{Returning_Sequence.jpg}
+    %\vspace*{-12cm}
+    \caption{نمودار توالی فرآیند مرجوعی}
     \label{fig:model1}
 \end{figure}
 
@@ -352,9 +390,189 @@
     \centering
     \includegraphics[width=23cm]{3.8.jpg}
     %\vspace*{-2cm}
-    \caption{نمودار توالی فرآیند مرجوعی}
+    \caption{نمودار فعالیت فرآیند مرجوعی}
     \label{fig:model1}
 \end{figure}
+
+
+\newpage
+\subsection{نمودارهای فرآیند ثبت‌نام }
+در این بخش نمودار فعالیت و توالی برای فرآیندهای ثبت‌نام آمده‌است. ثبت‌نام پیک موتوری و صاحب فروشگاه در یک نمودار مشترک رسم شده‌اند اما ثبت‌نام مشتری نمودار جداگانه دارد. دلیل این تصمیم این است که بین فرآیند ثبت‌نام مشتری با پیک و صاحب فروشگاه، تفاوت زیادی وجود دارد. \\
+جزییات مربوط به هر قدم و گام های مربوطه در جدول توضیحات نمودار موردکاربرد آمده‌اند. در آن جدول گام های لازم، توضیحات هر مرحله و سناریو های ممکن شرح داده شده‌اند. علاوه برآن در لیست نیازمندی های کاربردی نیز توضیح مختصری از مراحل مختلف این فرآیند مطرح شده‌است. در حقیقت تمامی فرضیات رسم نمودارها، توضیحات مرتبط و سناریو های ممکن در بخش های قبلی این نوشتار بیان شده‌اند. بنابراین در اینجا از تکرار مکررات پرهیز کرده و مطالب قبلی را مجددا ذکر نمی‌کنیم. صرفا نکات زیر شایان ذکر هستند:
+\begin{enumerate}
+\item به منظور رسم نمودار فعالیت، بخشی تحت عنوان درگاه ثبت‌نام تعریف کردیم که وظایف آن درون نمودار مشخص شده‌است. همین واحد در نمودار توالی به عنوان آکتور حضور دارد. این واحد عملیاتی در نمودار مورد کاربرد ذکر نشده‌، چراکه عملا بخشی از سامانه است. بنابراین منظور از دفتر ثبت‌نام، محلی است که حضوری به آن مراجعه می‌شود و منظور از درگاه ثبت‌نام، بخشی از سامانه است.
+\item برخی ترجیح می‌دهند نمودار توالی را به ازای یک سناریو خاص رسم کنند. اما در این جا ما با استفاده از عبارات شرطی، سناریوهای مختلف را پوشش دادیم. پس نمودار توالی ما صرفا مربوط به یک سناریو خاص نمی‌شود. اما اتفاقاتی که درصورت عدم برقرار بودن شروط رخ می‌دهند در نمودارها بیان نشده. دلیل این مسئله این است که ما این موارد را تحت عنوان سناریو جایگزین در نظر گرفتیم. 
+\item در رسم نمودار توالی پاسخ پیام ها ذکر نشده‌اند. اصولا به منظور حفظ خوانا بودن و شفافیت نمودار بهتر است پاسخ پیام ها نمایش داده‌نشوند. مشخصا پاسخ هر پیام از نام آن پیام معلوم می‌شود و ذکر دوباره آن صرفا نمودار را شلوغ می‌کند.
+\end{enumerate}
+تصاویر هر چهار نمودار در ادامه قرار گرفته‌است. فایل اصلی نمودارها نیز به پیوست آمده.
+
+\newpage
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=15cm]{CustomerRegistration_Sequence.jpg}
+    %\vspace*{-12cm}
+    \caption{نمودار توالی فرآیند ثبت‌نام مشتری}
+    \label{fig:model1}
+\end{figure}
+
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=15cm]{Registration_Sequence.jpg}
+    %\vspace*{-2cm}
+    \caption{نمودار توالی فرآیند ثبت‌نام فروشنده و پیک موتوری}
+    \label{fig:model1}
+\end{figure}
+
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=15cm]{CustomerRegistration_Activity.jpg}
+    %\vspace*{-12cm}
+    \caption{نمودار فعالیت فرآیند ثبت‌نام مشتری}
+    \label{fig:model1}
+\end{figure}
+
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=15cm]{Registration_Sequence.jpg}
+    %\vspace*{-2cm}
+    \caption{نمودار فعالیت ثبت‌نام فروشنده و پیک موتوری}
+    \label{fig:model1}
+\end{figure}
+
+
+\newpage
+\section{فاز سوم} 
+\subsection{فرایند خرید و ارسال سفارش}
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=15cm]{OrderFulfilment_Diagram.JPG}
+    %\vspace*{-2cm}
+    \caption{نمودار فرآیند تکمیل سفارشات}
+    \label{fig:model1}
+\end{figure}
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=15cm]{OrderPlacement_Diagram.JPG}
+    %\vspace*{-2cm}
+    \caption{نمودار زیرفرآیند ایجاد سفارش}
+    \label{fig:model1}
+\end{figure}
+
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=15cm]{DeliverySearch_Diagram.JPG}
+    %\vspace*{-2cm}
+    \caption{نمودار زیرفرآیند پیدا کردن پیک‌موتوری}
+    \label{fig:model1}
+\end{figure}
+\newpage
+در این بخش نمودار فرآیند خرید و ارسال سفارش آمده است. در \lr{BPMN}دو موجودیت که مستقل از هم کار میکنند را معمولا با \lr{pool} های مختلف نمایش میدهند.به همین منور ما نیز برای رسم این فرآیند دو \lr{pool} برای مشتری و فروشگاه اینترنتی در نر گرفته‌ایم. در حقیقت ما به عنوان فروشگاه از رفتار مشتری آگاه نیستیم و فقط پیام‌هایی که برای ما ارسال میکند را در اختیار داریم، بنابراین فرآیند مذکور را در قالب یک \lr{collabration diagram}  مدل‌سازی کردیم. در بخش فروشگاه سه \lr{lane} تعریف شده که هر کدام زیرمجموعه‌ای از فعالیت‌های فرآیند را در بر دارند. ضمنا برای حفظ شفافیت نمودار آن را \lr{decompose}
+ کردیم و دو\lr{subprocess} تعریف شده‌اند که یک از آن‌ها از نوع حلقه می‌باشد. شرط پایان حلقه در توضیحات این\lr{subprocess}  نوشته شده است.
+\\
+در جدول زیر توضیحات مرتبط با هر \lr{lane} آمده است.
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=15cm]{chart1.jpg}
+    %\vspace*{-2cm}
+    \label{fig:model1}
+\end{figure}
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=15cm]{chart2.jpg}
+    %\vspace*{-2cm}
+    \label{fig:model1}
+\end{figure}
+
+به منظور رسم نمودار، مطالعاتی انجام دادیم و طبق آن‌ها تصمیماتی گرفتیم تا نمودار به صورت استاندارد رسم شود. در این باره نکات زیر حائز اهمیت هستند:
+\begin{enumerate}
+\item درصورت مغایرت موجودی فروشگاه با اطلاعات سامانه و موجود نبودن کالای موردنظر در فروشگاه، فروشگاه این مسئله را اطلاع داده و سفارش را لغو میکند. سپس از طریق سامانه این موضوع به مشتری اطلاع داده میشود و باتوجه به خواست مشتری، برای این مشکل تصمیم‌گیری میشود. همچنین در صورتی که تاییدیه ارسال سفارش دریافت نشود، سامانه این موضوع را اخطار می‌دهد تا مورد پیگیری قرار گیرد. بدین منظور لازم است با پیک مورد نظر تماس گرفته‌شود. این اتفاقات در نمودار نمایش داده نشده و صرفا در اینجا به عنوان سناریو ممکن مطرح می‌شود چراکه رخ دادن این حالت خارج از روال عادی فرآیند بوده و نیاز به دخالت تیم پشتیبانی و نیرو انسانی دارد. در حقیقت برای حفظ نظم نمودار، حالات خاص ناشی از خطا را صرفا در سند نمودار بیان می‌کنیم که این موضوع خود یکی از به‌روش های مدلسازی می‌باشد. در اجرای فرآیند نیز باید به این نکته توجه کرد که بین این فعالیت ها ارتباط توالی برقرار است، پس تا زمانی که یکی انجام نشود دیگری رخ نخواهد داد. بنابراین عدم دریافت تاییدیه آماده شدن یا تحویل سفارش به معنای عدم پایان فرآیند خواهد بود. در این حالت لازم است که اپراتور وارد عمل شده و فرآیند را هدایت کند که این موضوع با فرض های منطقی سازگار است. نتیجه دخالت نیرو انسانی هر چیزی می‌تواند باشد و ممکن است به ترتیبی صورت گیرد که فرآیند با یک وقفه روال عادی خود را طی کند (پیک صرفا فراموش کرده که پیام تحویل سفارش را تایید کند و با یادآوری تیم پشتیبانی این کار را انجام داده و سپس سفارش خودکار آرشیو می‌شود) یا  ممکن است اساسا منجر به اختلال در فرآیند گردد(کالا در فروشگاه موجود نیست و باید اقدامات جایگزین صورت گیرد). در عین حال از نمایش این سناریو ها در نمودار خودداری کردیم.
+\item همانطور که در جدول توضیحات نیز شرح داده شده، فرض بر این است که موجودی کالاها دو بار بررسی می‌شود. یک بار هنگام اضافه شدن آن‌ها به سبد خرید و یک بار هنگام نهایی کردن سبد خرید و پیش از تایید سفارش. دلیل این موضوع این است که گاها بین تکمیل سبد خرید و ایجاد سفارش فاصله می‌افتد. یعنی ممکن است مشتری چند ساعت یا روز پس از تکمیل سبد، تصمیم بگیرد که خرید خود را نهایی کند؛ بنابراین لازم است پس از نهایی شدن سبد خرید و تعیین زمان ارسال، مجددا موجود بودن کالاها بررسی شوند. تفاوت این بررسی با حالت اول این است که تکرار نمی‌شود. یعنی بررسی اولیه به ازای هر کالا صورت گرفته و در نمودار به شکل حلقه رسم شده‌است؛ اما بررسی دوم یک عملیات یکباره است که با نام بررسی سفارش ذکر شده.
+\item همانطور که در جدول توضیحات نیز شرح داده شده، فرض بر این است که موجودی کالاها دو بار بررسی می‌شود. یک بار هنگام اضافه شدن آن‌ها به سبد خرید و یک بار هنگام نهایی کردن سبد خرید و پیش از تایید سفارش. دلیل این موضوع این است که گاها بین تکمیل سبد خرید و ایجاد سفارش فاصله می‌افتد. یعنی ممکن است مشتری چند ساعت یا روز پس از تکمیل سبد، تصمیم بگیرد که خرید خود را نهایی کند؛ بنابراین لازم است پس از نهایی شدن سبد خرید و تعیین زمان ارسال، مجددا موجود بودن کالاها بررسی شوند. تفاوت این بررسی با حالت اول این است که تکرار نمی‌شود. یعنی بررسی اولیه به ازای هر کالا صورت گرفته و در نمودار به شکل حلقه رسم شده‌است؛ اما بررسی دوم یک عملیات یکباره است که با نام بررسی سفارش ذکر شده.
+\item همانطور که در نمودار مشخص شده، ارتباط بین مشتری و سامانه از طریق پیام‌هایی که به هم می‌دهند مدلسازی شده که این مسئله مطابق با واقعیت است. بسته به نوع پیام و اثر آن، \lr{ message flow} به کل \lr{ pool } ، یک تسک خاص از آن یا یک \lr{message event} از نوع \lr{ catch} وصل شده‌است. نمونه‌هایی از هریک از این حالات در نمودار قرار دارند. مثلا پیغام ایجاد سفارش از مشتری به سامانه یا پیغام تایید سفارش از سامانه به مشتری با \lr{message even} از نوع \lr{ catch }، مدل شدند. ارسال صورتحساب از سامانه به مشتری را با \lr{ message flow }که به تسک پرداخت وصل شده نمایش دادیم. در همه حالات سعی کردی مطابق با استانداردهای \lr{ BPMN} عمل کرده و توصیف شفافی از این ارتباطات ارائه دهیم.
+\item در صورت عدم تایید سفارش، پیغامی با همین مضمون به مشتری داده می‌شود. در این حالت مشتری نمی‌تواند سفارش خود را نهایی کند. برای مدلسازی این سناریو از \lr{ intermediate message event} از نوع \lr{ interrupting} و \lr{ catch} استفاده کردیم. این \lr{ event} به بدنه تسک «نهایی کردن سفارش»، متصل شده‌است. یعنی اگر چنین پیغامی ارسال شود و این \lr{ event} فعال گردد، تسک مذکور قطع شده و مسیر فرآیند تغییر می‌کند. فلشی که از \lr{ event}مربوطه خارج شده، بیانگر جهت ادامه فرآیند در صورت رخ دادن آن است. به طور خلاصه اگر پیغام عدم تایید سفارش به این \lr{ event}برسد، فعالیت «نهایی کردن سفارش» قطع شده و فرآیند وارد شاخه جدیدی می‌شود که به \lr{ event}توقف عملیات منتهی خواهد شد. همین سناریو و منطق در رابطه با عدم تایید پرداخت برقرار است. با این تفاوت که در آنجا همه موارد ذکر شده به جای پیغام با ارور نشان داده‌شده‌اند. یعنی در صورتی که سامانه هزینه را دریافت نکند، خطایی در پرداخت رخ داده. این خطا را با \lr{intermediate error even}t از نوع \lr{ interrupting} که به بدنه تسک «پرداخت هزینه» چسبیده، نشان دادیم. مشابه قبل، اگر این خطا رخ دهد، مسیر فرآیند وارد شاخه جدیدی شده و به توقف عملیات منتهی می‌شود. همین اتفاق در \lr{ pool} سامانه با \lr{ end error event} مدلسازی شده. ضمنا مطابق استاندارد، نام این خطاها را یکسان در نظر گرفتیم چون نرم افزار برای رهگیری \lr{ error event}های مختلف از نام آن‌ها استفاده می‌کند.
+\item در نمودار اگر سفارش تایید نشود، عملیات متوقف خواهد شد. همانطور که در جدول توضیحات گفته بودیم، فرض بر آن است که در صورت توقف عملیات، سبد خرید حفظ می‌شود. بنابراین اگر مشتری همچنان قصد خرید داشته باشد می‌تواند سبد خرید را ویرایش کند که این خود به نوعی به منزله تکرار مجدد فرآیند از ابتدای آن است. چنانچه مشتری قصد ادامه خرید را نداشته باشد، عملیات متوقف شده و تکرار نخواهد شد. حتی ممکن است مشتری با پیغام عدم تایید مواجه شود و در آن لحظه سفارش را رها کند اما چند روز بعد به سراغ تکمیل آن بیاید که این موضوع با توجه به فرض حفظ شدن سبد خرید ممکن خواهد بود. در کل اگر در هر مرحله‌ای (تایید سفارش یا تایید پرداخت)، با حالت عدم تایید مواجه شویم، عملیات متوقف شده اما سبد خرید حفظ می‌شود. به همین دلیل از رسم گره‌های شرطی با عنوان «آیا قصد ویرایش خرید/تکرار پرداخت را دارید؟» صرف نظر کردیم. اگر مشتری بخواهد در همان لحظه مجددا تلاش کند یا حتی اگر بخواهد با یک وقفه زمانی مجددا تلاش کند؛ هر دو این سناریوها به منزله راه اندازی مجدد فرآیند هستند.
+\item یکی از راه‌های نشان دادن اعضا خارجی سامانه استفاده از \lr{ black box} است. مثلا پیک موتوری و صاحب فروشگاه را می‌توانستیم با کشیدن دو \lr{ pool} از نوع \lr{ black box }نمایش دهیم و پیغام هایی که بین سامانه و آن‌ها تبادل می‌شود را با \lr{ message flow }مدلسازی کنیم. اما چون این پیغام‌ها اندک بودند، تصمیم گرفتیم که نمودار را شلوغ نکرده و از امکانات دیگر نرم افزار استفاده کنیم. به این منظور از انواع تسک‌های مختلف بهره بردیم. این کار ما را از افزودن \lr{ pool} بی‌نیاز کرده و به شفافیت نمودار کمک می‌کند. این تسک ها به شرح زیر هستند:\\
+     \lr{manual task} : تسک هایی که دستی انجام می‌شوند. در مدل برای نمایش تسک‌هایی که به صورت فیزیکی و خارج سامانه تکمیل می‌شوند، از این حالت بهره بردیم. مثل آماده‌سازی یا ارسال سفارش که به ترتیب توسط صاحب فروشگاه و پیک انجام می‌شوند.\\
+     \lr{User task} : تسک‌هایی که با کمک یک کاربر و در بستر سامانه انجام می‌شوند. مثلا مشتری که کالا را انتخاب می‌کند.\\
+     \lr{send task} : بیانگر ارسال پیغام است. مثلا ارسال درخواست یا اطلاعات محموله به پیک موتوری یا ارسال لیست خرید به صاحب فروشگاه.\\
+     \lr{Receive task} : بیانگر دریافت پیغام است. این تسک زمانی انجام می‌شود که پیغام مورد نظر دریافت شود، در غیر اینصورت تسک تکمیل نخواهد شد. مثل دریافت تاییدیه ارسال سفارش از پیک موتوری یا دریافت پاسخ پیک مبنی بر رد یا قبول درخواست ارسال.\\
+   نرم افزار برای هر یک از تسک‌های مختلف امکان تعیین فرد مسئول، ارسال کننده پیغام و دریافت کننده آن را فراهم کرده‌است. از این رو با کمک این تسک‌ها، نقش و مسئولیت اعضا خارجی را نشان دادیم. به این صورت که در بخش \lr{ resources }، پیک و صاحب فروشگاه و بانک را به عنوان \lr{ role /entity} تعریف کردیم و سپس آن‌ها را به تسک‌های مربوطه اختصاص دادیم. در حالت \lr{ presentation mode }، با کلیک بر روی هر تسک، این اطلاعات نمایش داده می‌شوند.
+
+\end{enumerate}
+
+\newpage
+\subsection{فرآیند مرجوعی کالا}
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=15cm]{Returning_Diagram.JPG}
+    %\vspace*{-2cm}
+    \caption{فرآیند مرجوعی کالا }
+    \label{fig:model1}
+\end{figure}
+
+\newpage
+در این بخش نمودار فرآیند مرجوعی کالا آمده‌است. مطابق توضیحات بخش قبل، فرآیند مذکور را در قالب یک \lr{ collaboration diagram} مدلسازی کردیم. در بخش فروشگاه سه \lr{ lane} تعریف شده که هر کدام زیرمجموعه ای از فعالیت های فرآیند را دربردارند. ضمنا برای حفظ شفافیت نمودار آن را \lr{ decompose} کردیم و یک \lr{ subprocess} تعریف شده‌اند که یکی از آنها از نوع حلقه می‌باشد. شرط پایان حلقه در توضیحات این \lr{ subprocess} نوشته شده‌است. 
+در جدول زیر توضیحات مرتبط با هر \lr{ lane} آمده است:
+\\
+
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=15cm]{chart3.jpg}
+    %\vspace*{-2cm}
+    \label{fig:model1}
+\end{figure}
+
+به منظور رسم نمودار، مطالعاتی انجام دادیم و طبق آن‌ها تصمیماتی گرفتیم تا نمودار به صورت استاندارد رسم شود. در این باره نکات زیر حائز اهمیت هستند:\\
+\begin{enumerate}
+\item در صورتی که تاییدیه بازگشت کالا، دریافت نشود، سامانه این موضوع را اخطار می‌دهد تا مورد پیگیری قرار گیرد. بدین منظور لازم است با فروشگاه مورد نظر تماس گرفته‌شود. درصورت سالم نبودن کالا، فروشگاه این مسئله را اطلاع داده و مرجوعی را را لغو میکند. سپس از طریق تیم پشتیبانی این موضوع به مشتری اطلاع داده میشود و  برای این مشکل تصمیم‌گیری میشود. این اتفاقات در نمودار نمایش داده نشده و صرفا در اینجا به عنوان سناریو ممکن مطرح می‌شود چراکه رخ دادن این حالت خارج از روال عادی فرآیند بوده و نیاز به دخالت تیم پشتیبانی و نیرو انسانی دارد. در حقیقت برای حفظ نظم نمودار، حالات خاص ناشی از خطا را صرفا در سند نمودار بیان می‌کنیم که این موضوع خود یکی از به‌روش های مدلسازی می‌باشد. در اجرای فرآیند نیز باید به این نکته توجه کرد که بین این فعالیت ها ارتباط توالی برقرار است، پس تا زمانی که یکی انجام نشود دیگری رخ نخواهد داد. بنابراین عدم دریافت تاییدیه بازگشت کالا به معنای عدم پایان فرآیند خواهد بود. در این حالت لازم است که اپراتور وارد عمل شده و فرآیند را هدایت کند که این موضوع با فرض های منطقی سازگار است. نتیجه دخالت نیرو انسانی هر چیزی می‌تواند باشد و ممکن است به ترتیبی صورت گیرد که فرآیند با یک وقفه روال عادی خود را طی کند (صاحب فروشگاه صرفا فراموش کرده که بازگشت کالا را تایید کند و با یادآوری تیم پشتیبانی این کار را انجام داده و سپس درخواست مرجوعی تکمیل می‌شود) یا  ممکن است اساسا منجر به اختلال در فرآیند گردد(کالا دریافت شده ناسالم است و باید اقدامات جایگزین صورت گیرد). در عین حال از نمایش این سناریو ها در نمودار خودداری کردیم.
+\item همانطور که در نمودار مشخص شده، ارتباط بین مشتری و سامانه از طریق پیام‌هایی که به هم می‌دهند مدلسازی شده که این مسئله مطابق با واقعیت است. بسته به نوع پیام و اثر آن، \lr{ message flow} به کل \lr{ pool }، یک تسک خاص از آن یا یک \lr{ message event} از نوع \lr{ catch} وصل شده‌است. نمونه‌هایی از هریک از این حالات در نمودار قرار دارند. مثلا پیغام درخواست مرجوعی از مشتری به تیم پشتیبانی یا پیغام تایید درخواست از پشتیبانی به مشتری با \lr{ message event} از نوع \lr{ catch }، مدل شدند. واریز وجه بازگشتی از سامانه به مشتری را با \lr{ message flow} که به تسک دریافت هزینه وصل شده نمایش دادیم. در همه حالات سعی کردیم مطابق با استانداردهای \lr { BPMN} عمل کرده و توصیف شفافی از این ارتباطات ارائه دهیم.
+\item در صورت عدم تایید درخواست، پیغامی با همین مضمون به مشتری داده می‌شود. در این حالت مشتری نمی‌تواند کالا را مرجوع کند. برای مدلسازی این سناریو از \lr{ intermediate message event} از نوع \lr{ interrupting} و \lr{ catch} استفاده کردیم. این \lr{ event} به بدنه تسک «ارجاع کالا»، متصل شده‌است. یعنی اگر چنین پیغامی ارسال شود و این \lr{ event} فعال گردد، تسک مذکور قطع شده و مسیر فرآیند تغییر می‌کند. فلشی که از \lr{ event} مربوطه خارج شده، بیانگر جهت ادامه فرآیند در صورت رخ دادن آن است. به طور خلاصه اگر پیغام عدم تایید درخواست به این \lr{ event} برسد، فعالیت «ارجاع کالا» قطع شده و فرآیند وارد شاخه جدیدی می‌شود که به \lr{ event} توقف عملیات منتهی خواهد شد. 
+\item یکی از راه‌های نشان دادن اعضا خارجی سامانه استفاده از \lr{ black box} است. مثلا پیک موتوری و صاحب فروشگاه را می‌توانستیم با کشیدن دو \lr{ pool} از نوع \lr{ black box }نمایش دهیم و پیغام هایی که بین سامانه و آن‌ها تبادل می‌شود را با \lr{ message flow} مدلسازی کنیم. اما چون این پیغام‌ها اندک بودند، تصمیم گرفتیم که نمودار را شلوغ نکرده و از امکانات دیگر نرم افزار استفاده کنیم. به این منظور از انواع تسک‌های مختلف بهره بردیم. این کار ما را از افزودن \lr{ pool} بی‌نیاز کرده و به شفافیت نمودار کمک می‌کند. این تسک ها به شرح زیر هستند:
+\end{enumerate}
+\lr{ Manual task}: تسک هایی که دستی انجام می‌شوند. در مدل برای نمایش تسک‌هایی که به صورت فیزیکی و خارج سامانه تکمیل می‌شوند، از این حالت بهره بردیم. مثل بازگرداندن کالا مرجوعی که توسط پیک انجام می‌شود.\\
+\lr{ User task}: تسک‌هایی که با کمک یک کاربر و در بستر سامانه انجام می‌شوند. مثلا مشتری که درخواست مرجوعی می‌دهد.\\
+\lr{ Send task}: بیانگر ارسال پیغام است. مثلا ارسال درخواست یا اطلاعات محموله به پیک موتوری.\\
+\lr{ Receive task}: بیانگر دریافت پیغام است. این تسک زمانی انجام می‌شود که پیغام مورد نظر دریافت شود، در غیر اینصورت تسک تکمیل نخواهد شد. مثل دریافت تاییدیه بازگشت کالا از صاحب فروشگاه یا دریافت پاسخ پیک مبنی بر رد یا قبول درخواست ارسال.\\
+نرم افزار برای هر یک از تسک‌های مختلف امکان تعیین فرد مسئول، ارسال کننده پیغام و دریافت کننده آن را فراهم کرده‌است. از این رو با کمک این تسک‌ها، نقش و مسئولیت اعضا خارجی را نشان دادیم. به این صورت که در بخش \lr{ resources }، پیک و صاحب فروشگاه و بانک را به عنوان \lr{ role /entity} تعریف کردیم و سپس آن‌ها را به تسک‌های مربوطه اختصاص دادیم. در حالت \lr{ presentation mode }، با کلیک بر روی هر تسک، این اطلاعات نمایش داده می‌شوند.
+
+
+\subsection{فرایند ثبت‌نام}
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=15cm]{ShopownerRegistration_Diagram.JPG}
+    %\vspace*{-2cm}
+    \caption{فرآیند ثبت‌نام صاحب فروشگاه  }
+    \label{fig:model1}
+\end{figure}
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=15cm]{DeliveryRegistration_Diagram.JPG}
+    %\vspace*{-2cm}
+    \caption{فرآیند ثبت‌نام پیک‌موتوری   }
+    \label{fig:model1}
+\end{figure}
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=15cm]{CustomerRegistration_Diagram.JPG}
+    %\vspace*{-2cm}
+    \caption{فرآیند ثبت‌نام مشتری‌   }
+    \label{fig:model1}
+\end{figure}
+در این بخش اطلاعات مرتبط با فرآیند ثبت‌نام آمده. در خصوص این فرآِند نکات زیر حائز اهمیت هستند:\\
+\begin{enumerate}
+\item برای ثبت‌نام صاحب فروشگاه یک \lr{ Pool} در نظر گرفتیم که دو \lr{ lane} دارد. چون در فرآیند ثبت‌نام، پیام‌هایی که بین صاحب فروشگاه و دفتر ثبت‌نام تبادل می‌‍‌‌شوند به صورت حضوری است، برخلاف دو فرآیند دیگر، صاحب فروشگاه به عنوان \lr{ lane} مطرح شده‌است. 
+\item برای ثبت‌نام پیک موتوری یک \lr{ pool} در نظر گرفتیم که دو \lr{ lane} دارد. چون در فرآیند ثبت‌نام، پیام‌هایی که بین پیک موتوری و دفتر ثبت‌نام تبادل می‌‍‌‌شوند به صورت حضوری است، برخلاف دو فرآیند دیگر، پیک موتوری به عنوان \lr{ lane} مطرح شده‌است. 
+\item برای ثبت‌نام مشتری دو \lr{ pool} در نظر گرفتیم. \lr{ Pool} مشتری از نوع \lr{ black box }است. پیام‌هایی که بین مشتری و سامانه تبادل می‌شوند با \lr{ message fellow} نمایش داده‌شدند. در این فرآیند از \lr{ interrupting timer event }استفاده کردیم. یعنی اگر تایید ثبت‌نام از زمان مشخصی بیشتر طول بکشد، هویت احراز نشده و فرآیند پایان می‌یابد. برای فرض، زمان تایمر را 15 دقیقه تعیین کردیم.
+\end{enumerate}
+توضیحات هر \lr{ pool} در جدول زیر آمده‌است:
+
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=15cm]{chart4.jpg}
+    %\vspace*{-2cm}
+    \label{fig:model1}
+\end{figure}
+
 
 
 \newpage
@@ -394,7 +612,41 @@
 }{https://creately.com/blog/diagrams/sequence-diagram-tutorial/}\\
 \href{http://www.jot.fm/issues/issue_2005_05/column4}{http://www.jot.fm/issues/}\\
 \href{https://www.researchgate.net/figure/Two-possible-representation-of-the-loop-in-the-UML-activity-diagram-a-shows-loop-where_fig2_220827278}{https://www.researchgate.net/figure/Two-possible-representation-of-the-loop-in-the-UML-activity-diagram-a-shows-loop-where}
+
 \end{latin}
+
+\subsection{منابع فاز سوم}
+\begin{latin}
+\href{https://blog.goodelearning.com/subject-areas/bpmn/message-events-vs-message-tasks/}{https://blog.goodelearning.com/subject-areas/bpmn/message-events-vs-message-tasks/}\\
+\href{https://wiki.genexus.com/commwiki/servlet/wiki?24922,Introduction+to+BPMN+-+Error+Handling}{https://wiki.genexus.com/commwiki/servlet/}\\
+\href{https://bpmtips.com/bpmn-in-practice-pools-and-lanes/}{https://bpmtips.com/bpmn-in-practice-pools-and-lanes/}\\
+\href{https://help.bizagi.com/bpm-suite/en/index.html?what_to_avoid_when_process_model.htm}{https://help.bizagi.com/bpm-suite/en/index.html}\\
+\href{https://blog.goodelearning.com/subject-areas/bpmn/conversation-vs-collaboration-vs-choreography/}{https://blog.goodelearning.com/subject-areas/bpmn/conversation-vs-collaboration-vs-choreography/}\\
+\href{https://feedback.bizagi.com/en/topic/does-bizagi-allow-the-use-of-a-black-box-process-in-a-collaboration-diagram}{https://feedback.bizagi.com/en/topic/does-bizagi-allow-the-use-of-a-black-box-process-in-a-collaboration-diagram}\\
+\href{https://help.bizagi.com/process-modeler/en/index.html?simulation_in_bizagi.htm}{https://help.bizagi.com/process-modeler/en/index.html?simulation}\\
+\href{https://help.bizagi.com/process-modeler/en/index.html?connectors.htm}{https://help.bizagi.com/process-modeler/en/index.html?connectors.htm}\\
+\href{https://feedback.bizagi.com/en/topic/messages}{https://feedback.bizagi.com/en/topic/messages}\\
+\href{https://help.bizagi.com/process-modeler/en/index.html?example_collaboration_in_proce.htm}{https://help.bizagi.com/process-modeler/en/index.html?example}\\
+\href{https://www.researchgate.net/publication/259031977_A_Pattern-Based_and_Model-Driven_Approach_for_Deriving_IT_System_Functional_Models_from_Annotated_Business_Models}{https://www.researchgate.net/publication/}\\
+\href{https://www.researchgate.net/figure/The-online-shop-example-process-annotated-with-the-BUCs_fig2_259031977}{https://www.researchgate.net/figure/The-online-shop-example-process-annotated-with-the-BUCs}\\
+\href{https://www.researchgate.net/figure/Business-process-for-handling-the-orders-of-an-online-shop_fig1_259031977}{https://www.researchgate.net/figure/Business-process-for-handling-the-orders-of-an-online-shop}\\
+\href{https://www.researchgate.net/figure/Example-of-a-business-process-model-in-BPMN_fig1_226414616}{https://www.researchgate.net/figure/Example-of-a-business-process-model-in-BPMN}\\
+\href{https://www.researchgate.net/figure/BPMN-diagram-with-multiple-end-events-and-corresponding-YAWL-net_fig5_226414616}{https://www.researchgate.net/figure/BPMN-diagram-with-multiple-end-events-and-corresponding-YAWL-net}\\
+\href{https://blog.goodelearning.com/subject-areas/bpmn/common-bpmn-modeling-mistakes-best-practices-basic-events/}{https://blog.goodelearning.com/subject-areas/bpmn/common-bpmn-modeling-mistakes-best-practices-basic-events/}\\
+\href{http://www.differencebetween.net/technology/difference-between-uml-and-bpmn/}{http://www.differencebetween.net/technology/difference-between-uml-and-bpmn/}\\
+\href{https://sparxsystems.com/enterprise_architect_user_guide/15.2/model_simulation/bpmn_simulation_comparison.html}{https://sparxsystems.com/}\\
+\href{https://sparxsystems.com/enterprise_architect_user_guide/15.2/model_simulation/bpmn_simulation_comparison.html}{https://sparxsystems.com}\\
+\href{https://www.mydraw.com/templates-bpmn-order-fulfillment-process}{https://www.mydraw.com/templates-bpmn-order-fulfillment-process}\\
+\href{https://shippingeasy.com/resources/shipping-returns-process-flowchart/}{https://shippingeasy.com/resources/shipping-returns-process-flowchart/}\\
+\href{https://creately.com/diagram/example/iw39p66m/New}{https://creately.com/diagram/example/}\\
+\href{https://www.researchgate.net/figure/User-Registration-Process_fig7_264890432}{https://www.researchgate.net/figure/User-Registration-Process}\\
+\href{https://www.slideshare.net/BPArchitect/website-crm-system-accounts-sync-9726318}{https://www.slideshare.net/BPArchitect/website-crm-system-accounts-sync}
+
+
+
+\end{latin}
+
+
 
 \end{document}
 
